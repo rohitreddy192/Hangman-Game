@@ -3,7 +3,7 @@
 
 ## How to Play:
 ### Run the Python script: 
-    multiplayer_game.py
+    hangman.py
   
   - Player 1 enters a word for Player 2 to guess or types 'exit' to end the game.
   - Player 2 guesses the characters of the word entered by Player 1.
